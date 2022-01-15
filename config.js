@@ -1,7 +1,7 @@
 // Bismillahirrahmanirrahim
 // thank you to ALLAH Swt
-// thank you to Nurutomo as wabot-aq
-// thank you to ariffb as stikerinbot
+// thank you to ZeilBotz
+// thank you to Siegrin
 // thank you to botstylee
 // thank you to bochilgaming as games-wabot
 // thank you to zerochanBot
@@ -88,16 +88,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Caca Sepong Pilar 😱'
-global.author = 'Recode By Pilar'
+global.packname = 'ZeilBotz 😱'
+global.author = 'Recode By Zeil'
 
 // silakan di ganti klo mau
-global.botwm = `Zeus Botz V2`//UBAH JADI NAMAMU
+global.botwm = `ZeilBotz`//UBAH JADI NAMAMU
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
 global.imagebot = `https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text=Zeus%20Botz%20V2`
 global.logo = fs.readFileSync('./src/logo3.jpg')
 global.logoowner = fs.readFileSync('./src/owner.jpg')
-global.wait = '```[ ! ] Tunggu Ajg```'
+global.wait = '```[ ! ] Tunggu Cok```'
 global.rpg = '[ ! ] Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT'
 global.nsfw = '[ ! ] Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '```404 Error Dek```'
